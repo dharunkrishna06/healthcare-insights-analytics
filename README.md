@@ -63,8 +63,6 @@ This project reflects a real-world use case of **analytics in the healthcare dom
 ---
 
 
----
-
 ## 🔚 Conclusion
 
 This healthcare analytics project showcases how a data professional can extract, transform, and analyze hospital records using Python and SQL — delivering real insights that can support strategic healthcare decisions.
